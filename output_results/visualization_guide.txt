@@ -1,0 +1,5 @@
+Visualization guide
+- Original Image: source image before detection.
+- Defect Mask (white/black): white pixels are detected defect regions.
+- Overlay: red highlight marks defect pixels, yellow rectangles are defect bounding boxes,
+  and each tag shows defect ID and area in pixels.
